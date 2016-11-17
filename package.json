@@ -1,0 +1,24 @@
+{
+  "name": "gulp-faustao-errou",
+  "version": "1.0.0",
+  "description": "Gulp Error Handler, A.K.A Gulp Errrrrouuuuu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrOrlandi/gulp-faustao-errou.git"
+  },
+  "author": "Bruno Orlandi <brorlandi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrOrlandi/gulp-faustao-errou/issues"
+  },
+  "homepage": "https://github.com/BrOrlandi/gulp-faustao-errou#readme",
+  "dependencies": {
+    "faustao-errou": "^1.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.7"
+  }
+}
